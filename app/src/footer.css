@@ -1,0 +1,20 @@
+footer p{
+    font-size: 15px;
+    text-align: left;
+}
+
+footer{
+    background-color: #2c3e50;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    padding: none;
+}
+
+.Site {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+  }
+  
